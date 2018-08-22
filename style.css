@@ -78,3 +78,10 @@ h1{
 .sectionWords{
 	margin:20px;
 }
+
+.fuckingMargins{
+	margin-top:150px;
+	margin-bottom:150px;
+	margin-left:200px;
+	margin-right:200px;
+}
