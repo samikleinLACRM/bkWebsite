@@ -45,6 +45,7 @@ h1{
 }
 
 .profilePic{
+	display:block;
 	color:#D3D3D3;
 	width:100px;
 	height:150px;
