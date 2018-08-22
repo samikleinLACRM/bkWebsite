@@ -15,10 +15,11 @@ h1{
 }
 
 .centerWords{
-	margin-top:100px;
+	/* margin-top:100px;
 	margin-bottom:100px;
 	margin-left:50px;
-	margin-right:50px;
+	margin-right:50px; */
+	text-align:center;
 }
 
 .twoColumns{
@@ -41,8 +42,8 @@ h1{
 
 .profilePic{
 	color:#D3D3D3;
-	width:500px;
-	height:600px;
+	width:100px;
+	height:150px;
 	align:center;
 	margin-top:50px;
 	margin-bottom:50px;
@@ -53,7 +54,7 @@ h1{
 }
 
 .testimonials{
-	margin:25px;
+	/* margin:25px; */
 }
 
 .contact{
