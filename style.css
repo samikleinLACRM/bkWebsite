@@ -14,20 +14,20 @@ h1{
 
 .heading{
 	text-align:center;
-	margin:20px;
+	margin:60px;
 }
 
 .centerWords{
-	/* margin-top:100px;
-	margin-bottom:100px;
-	margin-left:50px;
-	margin-right:50px; */
+	margin-top:150px;
+	margin-bottom:150px;
+	margin-left:200px;
+	margin-right:200px;
 	text-align: center;
 	font-size: 35px;
 }
 
 .twoColumns{
-	margin:10px;
+	margin:0px;
 }
 
 .column {
@@ -48,7 +48,7 @@ h1{
 	color:#D3D3D3;
 	width:100px;
 	height:150px;
-	align:center;
+	/* align:center; */
 	margin-top:50px;
 	margin-bottom:50px;
 }
@@ -58,15 +58,22 @@ h1{
 }
 
 .contact{
+	font-size:30px;
 	text-align:center;
 }
 
 .sectionTitle{
 	font-size: 35px;
 	font-style: italic;
+	margin-left: 20px;
+	margin-top:20px;
 }
 
 .nameOfTest{
 	font-style: italic;
 	font-size:15px;
+}
+
+.sectionWords{
+	margin:20px;
 }
