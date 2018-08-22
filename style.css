@@ -1,5 +1,7 @@
 *{
-	font-family: 'Varela', sans-serif;
+	/* font-family: 'Varela', serif; */
+	font-family: 'Playfair Display', serif;
+
 }
 .background{
 	background-color: white;
@@ -7,6 +9,7 @@
 
 h1{
 	color: black;
+	font-size: 28px;
 }
 
 .heading{
@@ -19,7 +22,8 @@ h1{
 	margin-bottom:100px;
 	margin-left:50px;
 	margin-right:50px; */
-	text-align:center;
+	text-align: center;
+	font-size: 35px;
 }
 
 .twoColumns{
@@ -49,14 +53,20 @@ h1{
 	margin-bottom:50px;
 }
 
-.colHead{
-	font-size:45px;
-}
-
-.testimonials{
-	/* margin:25px; */
+.testimonial{
+	font-size:20px;
 }
 
 .contact{
 	text-align:center;
+}
+
+.sectionTitle{
+	font-size: 35px;
+	font-style: italic;
+}
+
+.nameOfTest{
+	font-style: italic;
+	font-size:15px;
 }
