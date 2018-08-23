@@ -36,6 +36,16 @@ h1{
     width: 50%;
 }
 
+.sectionTitle{
+	font-size: 35px;
+	font-style: italic;
+	/* margin-left: 20px;
+	margin-top:20px; */
+}
+.sectionWords{
+/* margin-left: 20px;*/
+}
+
 /* Clear floats after the columns */
 .row:after {
 	display: flex;
@@ -63,21 +73,13 @@ h1{
 	text-align:center;
 }
 
-.sectionTitle{
-	font-size: 35px;
-	font-style: italic;
-	margin-left: 20px;
-	margin-top:20px;
-}
 
 .nameOfTest{
 	font-style: italic;
 	font-size:15px;
 }
 
-.sectionWords{
-	margin:20px;
-}
+
 
 .fuckingMargins{
 	margin-top:150px;
